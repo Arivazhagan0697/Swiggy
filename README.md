@@ -33,7 +33,7 @@ In this **real-time DevOps project**, I demonstrate how to **deploy a Swiggy Clo
 ## 📢 **Share Your Experience!**
 
 If you've successfully deployed the **Swiggy Clone App** using this project, I'd love to hear about it!  
-- 📹 **Post your deployment video** and **tag me on LinkedIn**: [**Kastro Kiran**](https://www.linkedin.com/in/kastro-kiran/)
+- 📹 **Post your deployment video** and **tag me on LinkedIn**: [**Arivazhagan**](https://www.linkedin.com/in/arivaz``hagan-a-4b0115147/)
 - 💬 **Share your experience** of deploying the app and the tools you used.
 
-> “DevOps is not just a job; it's a journey to continuously improve processes and automate solutions.” – **Kastro**
+> “DevOps is not just a job; it's a journey to continuously improve processes and automate solutions.” – **Arivaz**
